@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(purple, yellow, white);
+}
+.quiz_login_div{
+background: white;
+width: 35%;
+height:335;
+box-shadow: 3px 8px 10px gray;
+margin-bottom: 415px;
+}
+.form-control{
+    width: 50%;
+    border-radius: 15px;
+}
+.welcome{
+    font-size: medium;
+}
+.sign_in{
+    font-size: large;
+}
